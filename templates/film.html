@@ -1,0 +1,9 @@
+﻿<h1>{{ film.call }}</h2>
+
+<h3>Оценки зрителей за фильм</h3>
+<ol>
+{% for i in list %}
+<li><a href="{{i.name.get_absolute_url}}">i.name</a> оценил на i.rank<li>
+{% endfor %}
+</ol>
+
