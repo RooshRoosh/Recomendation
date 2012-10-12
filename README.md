@@ -1,4 +1,3 @@
-Recomendation
+﻿Recomendation
 =============
-
-Service developed in the wake of book Programming Collective Intelligence by Toby Segaran
+Рекомендательный сервис по мотивам книги "Программируем коллективный разум" ofc Django
